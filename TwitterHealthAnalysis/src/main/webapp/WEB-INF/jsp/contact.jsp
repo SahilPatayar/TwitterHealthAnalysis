@@ -48,7 +48,7 @@
 
 				<address>
   					<strong>Sahil Patayar</strong><br>
-  					<a href="mailto:sahil.patayar@utdallas.edu">sahil.patayar@utdallas.edu</a>
+  					<a href="mailto:sahil.patayar@utdallas.edu">sahil.patayar@outlook.com</a>
 				</address>
 			   
 		</div>
